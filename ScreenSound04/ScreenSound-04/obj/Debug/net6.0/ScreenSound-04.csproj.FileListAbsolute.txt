@@ -1,0 +1,30 @@
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.exe
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.deps.json
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.runtimeconfig.json
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.dll
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.pdb
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.csproj.AssemblyReference.cache
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.AssemblyInfoInputs.cache
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.AssemblyInfo.cs
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.dll
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\refint\ScreenSound-04.dll
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.pdb
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.genruntimeconfig.cache
+G:\Meu Drive\Celcoin\api-integration-topup-webservice\ScreenSound-04\obj\Debug\net6.0\ref\ScreenSound-04.dll
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.exe
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.deps.json
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.runtimeconfig.json
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.dll
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.pdb
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.csproj.AssemblyReference.cache
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.AssemblyInfoInputs.cache
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.AssemblyInfo.cs
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.dll
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\refint\ScreenSound-04.dll
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.pdb
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.genruntimeconfig.cache
+C:\Phillip\Projeto Screen Sound Alura\ScreenSound04\ScreenSound-04\obj\Debug\net6.0\ref\ScreenSound-04.dll
